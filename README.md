@@ -32,6 +32,7 @@ system during compilation. The corresponding submodule should be fetched.
     $ sudo apt install libtool-bin
     $ libtool
     
+This may have to be run according to [these comments.[(https://github.com/intel/mavlink-router/issues/158)   
     $ sudo apt install python3-future
 
 #### Build ####
